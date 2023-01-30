@@ -1,4 +1,4 @@
-#Blender Renders
+#BlenderRenders
 
 Few of the projects I created using Blender 3D for my graphics course. 
 
